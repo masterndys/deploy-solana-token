@@ -1,0 +1,8 @@
+[programs.devnet]
+my_token = "replace_with_program_id"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
